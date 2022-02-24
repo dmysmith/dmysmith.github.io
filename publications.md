@@ -1,0 +1,45 @@
+### Peer-Reviewed Publications
+Hernandez, L.M., Kim, M., Zhang, P., Bethlehem, R.A.I., Hoftman, G., Loughnan, R., Smith, D., Bookheimer, S.Y., Fan, C.C., Bearden, C.E., Thompson, W.K., Gandal, M.J. Multi-ethnic, phenome-wide association of C4 variation with psychiatric and brain developmental phenotypes in youth. Under Review.
+
+Smith, D.M., Meruelo, A., Campbell-Sills, L., Sun, X., Kessler, R.C., Ursano, R.J., Jain, S., Stein, M.B. Pre-enlistment anger attacks and post-enlistment mental disorders and suicidality among US Army soldiers. JAMA Netw Open. 2021 Sep 1;4(9):e2126626.
+
+Smith, D.M.Y.,* Lipson, S.M.,* Wang, S.B., Fox, K.R. (2021). Online Methods in Adolescent Self-Injury Research: Challenges and Recommendations. J Clin Child Adolesc Psychol. 2021 Mar 3:1-12. (*co-first-authors)
+
+Madva, EN, Celano, CM, Smith, DM, Januzzi, JL, Huffman, JC. (2020). Recurrent versus new-onset depressive symptoms: Relationships with biomarkers of cardiovascular health following acute coronary syndrome. J Psychosom Res. 2021 Jan;140:110291.
+
+Smith, D.M., Fox, K.R., Carter, M.L., Thoma, B.C., & Hooley, J.M. (2020). Emotional Changes Following Discrimination Induction in Gender- and Sexuality-Diverse Adolescents. Emotion. 2020 Aug 6;10.1037/emo0000862
+
+Smith, D.M., Duque Serrano, L., Huffman, J.C., Healy, B.C., & Celano, C.M. (2020). Response to “Real-world Considerations for Applicability of Text Message Interventions for Promotion of Physical Activity”. Am J Prev Med, 59(2), pp.e91-e92..
+
+Smith, D.M., Wang, S.B., Carter, M.L., Fox, K.R., & Hooley, J.M. (2020). Longitudinal predictors of self-injurious thoughts and behaviors in sexual and gender minority adolescents. J Abnorm Psychol, 129(1), 114.
+
+Smith, D.M., Duque Serrano, L., Huffman, J.C., Healy, B.C., & Celano, C.M. (2020). Text message interventions for physical activity: A systematic review and meta-analysis. Am J Prev Med, 58(1), 142-151.
+
+Burke, T.A., Fox, K.R., Zelkowitz, R.L., Smith, D.M., Alloy, L.B., Hooley, J.M., & Cole, D.A. (2019). Does nonsuicidal self-injury prospectively predict change in depression and self-criticism? Cognitive Therapy and Research, 43, 345-353.
+
+Huffman, J.C., Smith, D.M., Ibrahim, N.I., Duque Serrano, L., Moskowitz, J.T., & Celano, C.M. (2018). Using mHealth interventions to promote cardiovascular health. Acta Cardiologica, 1-3.
+
+Fox, K. R., Hooley, J. M., Smith, D.M., Ribeiro, J. D., Huang, X., Nock, M. K., & Franklin, J. C. (2018). Self-injurious thoughts and behaviors may be more common and severe among people identifying as a sexual minority. Behavior Therapy, 49(5), 768-780.
+
+### Presentations
+Chen M, Coonahan E, Digma L, Kim A, Magsumbol AM, Penalosa M, Rucker K, Smith DM, Toma KG, Zhong A, Rodriguez N, Johnson ML. Implementation of a Delivery System for Food and Medications during the COVID-19 Pandemic. Poster presented at Society of Student Run Free Clinics Conference (virtual), 2021.
+
+Smith, D.M., Fox, K.R., Carter, M.L., Thoma, B.C., & Hooley, J.M. Emotional Changes Following Discrimination Induction in Gender- and Sexuality-Diverse Adolescents. Oral presentation at Association for Behavioral and Cognitive Therapies annual meeting (virtual), 2020. 
+
+Madva, E.N., Celano, C.M., Smith, D.M., Huffman, J.C. Recurrent versus new-onset depressive symptoms: Relationships with biomarkers of cardiovascular health following acute coronary syndrome. Webb Fellowship at the ACLP annual meeting, 2020.
+
+Smith, D.M., Duque-Serrano, L., Celano, C.M., & Huffman, J.C. Text messaging interventions to increase physical activity: A systematic review and meta-analysis. Poster presented at Harvard Psychiatry Research Day, Boston, MA, 2019.
+
+Feig, E.H., Harrington, N.R., Kim, S., Smith, D.M., Sogg, S., & Huffman, J.C. How do psychological states relate to health behavior adherence and weight loss after bariatric surgery? A mixed methods study. Poster presented at Annual Meeting of the Society of Behavioral Medicine, Washington, D.C., 2019.
+
+King, F., Celano, C.M., Smith, D.M., Ospina, J.P., Duque-Serrano, L., Romero, P.M., Bell, M.C., Pino-Mauch, B., & Huffman, J.C. Pragmatic collaborative care for cardiac inpatients with depression or anxiety: Methods for the Total Health study. Poster presented at MGH Clinical Research Day, Boston, MA, 2018.
+
+Smith, D.M., Duque-Serrano, L., Celano, C.M., & Huffman, J.C. Text messaging interventions to increase physical activity: A systematic review and meta-analysis. Poster presented at MGH Clinical Research Day, Boston, MA, 2018.
+
+Feig, E.H., Kim, S.Y., Smith, D.M., & Huffman, J.C. Do positive psychological characteristics relate to health behavior adherence in bariatric surgery patients? Poster presented at MGH Clinical Research Day, Boston, MA, 2018.
+
+Smith, D. M., Fox, K. R., & Hooley, J. M. Minority Stress and NSSI in Sexual and Gender Minority Teens. Poster presented at Annual Meeting of the Association for Behavioral and Cognitive Therapies, San Diego, CA, 2017.
+
+Smith, D. M., Ingram, M., & Fox, K. R. Minority Stress and Self-Injury Variables in Sexual and Gender Minority Adolescents. Poster presented at Annual Meeting of the Association for Behavioral and Cognitive Therapies, New York, NY, 2016.
+
+Smith, D. M., Fox, K. R., Franklin, J. C., & Ribeiro, J. D. Self-Injury and Self-Criticism in Sexual Minorities. Poster presented at Annual Meeting of the American Association of Suicidology, Chicago, IL, 2016.
