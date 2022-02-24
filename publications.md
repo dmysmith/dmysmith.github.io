@@ -1,3 +1,10 @@
+---
+layout: default
+description: publications
+title: publications
+id: pubs
+---
+
 ### Peer-Reviewed Publications
 Hernandez, L.M., Kim, M., Zhang, P., Bethlehem, R.A.I., Hoftman, G., Loughnan, R., Smith, D., Bookheimer, S.Y., Fan, C.C., Bearden, C.E., Thompson, W.K., Gandal, M.J. Multi-ethnic, phenome-wide association of C4 variation with psychiatric and brain developmental phenotypes in youth. Under Review.
 
